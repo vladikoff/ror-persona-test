@@ -1,1 +1,1 @@
-# Ruby on Rails Persona Demo
+Ruby on Rails Persona Demo
