@@ -1,0 +1,10 @@
+Hello!
+
+
+
+<% if @user %>
+  <%= @email %>.
+<%= logout_link %>
+<% else %>
+ <%= login_link "Login with Persona" %>
+<% end %>
